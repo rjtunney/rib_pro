@@ -1,0 +1,5 @@
+Number of iterations: 18757
+Number of proteins produced: 63
+Protein production per unit time: 0.0629963
+Initial number of ribosomes on the mRNA: 25, Density: 0.0833333
+Final number of ribosomes on the mRNA: 22, Density: 0.0733333
